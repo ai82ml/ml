@@ -1,6 +1,6 @@
 #  Project Name　:　Anomaly detection
 
-Script to determine good and defective products using Convolutional Autoencoder
+I determine good and defective products using Convolutional Autoencoder
 
 ## Table of Contents
 - [Overview](#overview)
